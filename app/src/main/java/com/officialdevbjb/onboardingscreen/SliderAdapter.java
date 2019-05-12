@@ -43,7 +43,7 @@ public class SliderAdapter extends PagerAdapter {
             "Ngoding Adalah Kewajiban Kita Untuk Mengembangkan Diri " + "Maka Kita Harus Ngoding :D"
 
     };
-
+// Commit Dulu
     @Override
     public int getCount() {
         return slide_headings.length;
